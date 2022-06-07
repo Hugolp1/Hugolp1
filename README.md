@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hugolp1
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: hugo.prado.contato@gmail.com
 
 <!---
 Hugolp1/Hugolp1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
